@@ -41,5 +41,3 @@ class TipCalculatorModel {
   }
   
 }
-
-//Test
